@@ -1,0 +1,23 @@
+/*aca seleccionamos color de fondo y fuente para todos los numeros impares*/
+.a {
+    background-color: rgb(228, 157, 173);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Numero 2 ID selector*/
+
+#par {
+    color: blue;
+    font-size: 36px;
+}
+
+/*encadenamiento de clase*/
+.a.casa {
+    font-size: 24px;
+}
+
+/*Selector de ID number5*/
+#small {
+    background-color: rgb(147, 202, 147);
+    font-size: 24px;
+    font-weight: bold;
+}
